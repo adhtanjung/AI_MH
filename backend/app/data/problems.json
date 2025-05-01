@@ -1,0 +1,67 @@
+[
+  {
+    "problem_id": "P001",
+    "problem_name": "Exam Anxiety",
+    "description": "Anxiety related to academic examinations."
+  },
+  {
+    "problem_id": "P002",
+    "problem_name": "Workplace Stress",
+    "description": "Stress experienced in professional settings."
+  },
+  {
+    "problem_id": "P003",
+    "problem_name": "Low Self-Esteem",
+    "description": "Negative self-perception or lack of confidence."
+  },
+  {
+    "problem_id": "P004",
+    "problem_name": "Stress",
+    "description": "Stress can be defined as a state of worry or mental tension caused by a difficult situation."
+  },
+  {
+    "problem_id": "P005",
+    "problem_name": "Depression",
+    "description": "Persistent feelings of sadness, loss of interest or pleasure in activities, and changes in sleep or appetite."
+  },
+  {
+    "problem_id": "P006",
+    "problem_name": "Trauma",
+    "description": "Emotional response to distressing or life-threatening events, often causing lasting mental and emotional effects."
+  },
+  {
+    "problem_id": "P007",
+    "problem_name": "Bullying",
+    "description": "Repeated aggressive behavior intended to hurt another person physically or emotionally."
+  },
+  {
+    "problem_id": "P008",
+    "problem_name": "Anxiety",
+    "description": "Excessive worry or fear about daily life events, often accompanied by physical symptoms like restlessness and tension."
+  },
+  {
+    "problem_id": "P009",
+    "problem_name": "Social issues and bullying",
+    "description": "Difficulties in social interactions and experiences of harassment or mistreatment by peers."
+  },
+  {
+    "problem_id": "P010",
+    "problem_name": "Family problems",
+    "description": "Conflict or dysfunction within the family unit affecting emotional well-being."
+  },
+  {
+    "problem_id": "P011",
+    "problem_name": "Suicidal thoughts",
+    "description": "Thoughts about ending one\u2019s life, indicating severe distress and need for immediate help."
+  },
+  {
+    "problem_id": "P012",
+    "problem_name": "Addiction",
+    "description": "Compulsive engagement in substances or behaviors despite harmful consequences."
+  },
+  {
+    "problem_id": "P013",
+    "problem_name": "Emotional Regulation",
+    "description": "The ability to manage and respond to emotional experiences in a healthy and constructive way."
+  }
+]
