@@ -13,7 +13,7 @@ const ChatWindow = () => {
   const messagesEndRef = useRef(null)
   const inputRef = useRef(null)
 
-  const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8340'
+  const API_URL = import.meta.env.VITE_API_URL || 'http://103.93.130.146:8340'
 
   // Load problem list
   useEffect(() => {
